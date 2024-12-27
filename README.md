@@ -1,6 +1,6 @@
 
 
-# Node.js Starter Project: GraphQL, Redis, JWT, dan Sequelize  
+# Node.js Starter Project: GraphQL, Redis, JWT, and Sequelize  
 
 Template ini adalah **Node.js Starter Project** yang dirancang untuk membangun API modern menggunakan **GraphQL** sebagai query language, **Redis** untuk caching, **JWT** untuk otentikasi, dan **Sequelize** untuk ORM yang kompatibel dengan database relasional seperti PostgreSQL atau MySQL. Struktur proyek modular ini mempermudah pengembangan, skalabilitas, dan pemeliharaan aplikasi.  
 
@@ -35,8 +35,8 @@ Proyek ini menyediakan solusi siap pakai untuk membangun backend modern dengan f
 Clone repository ini untuk memulai pengembangan:  
 
 ```bash  
-git clone <repository-url>  
-cd <repository-directory>  
+git clone https://github.com/dioarafll/Modern-Node-GraphQL.git 
+cd Modern-Node-GraphQL
 ```  
 
 ### 2. Instalasi Dependensi  
