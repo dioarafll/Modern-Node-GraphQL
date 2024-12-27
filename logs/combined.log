@@ -1,0 +1,91 @@
+2024-10-22T05:08:26.327Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T05:11:41.282Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T05:13:57.650Z error: Error starting server: Query root type must be provided.
+2024-10-22T06:12:29.790Z error: Error starting server: Query root type must be provided.
+2024-10-22T06:55:14.506Z error: Error starting server: Query root type must be provided.
+2024-10-22T07:02:28.148Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T07:07:29.989Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T07:10:47.188Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T07:19:46.916Z info: 🚀 Server is running on http://localhost:4000/graphql
+2024-10-22T07:23:54.495Z info: 🚀 Server is running on http://localhost:4000/graphql
+2024-10-22T11:05:35.272Z info: Access granted to user with ID 123
+2024-10-22T11:05:35.398Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T11:05:35.432Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T11:10:21.731Z info: Access granted to user with ID 123
+2024-10-22T11:10:21.876Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T11:10:21.921Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T11:20:32.407Z info: Access granted to user with ID 123
+2024-10-22T11:20:32.541Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T11:20:32.579Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T11:20:37.213Z info: JWT token generated successfully
+2024-10-22T11:20:37.395Z info: JWT token generated successfully
+2024-10-22T11:20:37.433Z info: JWT token verified successfully
+2024-10-22T11:20:37.474Z error: Error verifying JWT token:
+2024-10-22T11:20:37.820Z error: Error generating JWT token:
+2024-10-22T11:39:30.816Z info: Access granted to user with ID 123
+2024-10-22T11:39:30.985Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T11:39:31.028Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T11:52:27.587Z info: Access granted to user with ID 123
+2024-10-22T11:52:27.833Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T11:52:27.886Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:11:51.837Z info: Access granted to user with ID 123
+2024-10-22T12:11:51.944Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:11:51.977Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:26:45.619Z info: Access granted to user with ID 123
+2024-10-22T12:26:45.750Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:26:45.785Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:36:34.905Z info: Access granted to user with ID 123
+2024-10-22T12:36:35.053Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:36:35.104Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:47:21.924Z info: Access granted to user with ID 123
+2024-10-22T12:47:22.150Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:47:22.183Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:51:02.195Z info: Access granted to user with ID 123
+2024-10-22T12:51:02.404Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:51:02.461Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T12:58:11.449Z info: Access granted to user with ID 123
+2024-10-22T12:58:11.615Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T12:58:11.658Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T13:04:53.276Z info: Access granted to user with ID 123
+2024-10-22T13:04:53.448Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T13:04:53.491Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-22T13:05:06.981Z info: JWT token generated successfully
+2024-10-22T13:05:07.066Z info: JWT token verified successfully
+2024-10-22T13:05:07.118Z info: No token provided, setting user as guest
+2024-10-22T13:05:07.294Z error: Error verifying JWT token:
+2024-10-22T13:05:07.297Z error: Authentication failed:
+2024-10-22T13:16:49.307Z info: 🚀 Server is running on http://localhost:8080/graphql
+2024-10-22T13:53:03.405Z info: JWT token generated successfully
+2024-10-22T13:53:03.507Z info: JWT token verified successfully
+2024-10-22T13:53:03.582Z info: No token provided, setting user as guest
+2024-10-22T13:53:03.820Z error: Error verifying JWT token:
+2024-10-22T13:53:03.823Z error: Authentication failed:
+2024-10-22T13:53:07.359Z info: Access granted to user with ID 123
+2024-10-22T13:53:07.538Z warn: Access Denied: User with ID 123 has insufficient role.
+2024-10-22T13:53:07.584Z warn: Access Denied: User with ID 123 lacks required permissions.
+2024-10-24T10:48:19.053Z info: 🚀 Server is running on http://localhost:8080/graphql
+2024-11-02T15:39:26.737Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-02T15:39:27.325Z info: Redis client connected
+2024-11-02T16:22:19.859Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-02T16:22:20.405Z info: Redis client connected
+2024-11-02T17:17:48.067Z info: Redis client connected
+2024-11-02T17:17:54.181Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T11:19:01.251Z info: Redis client connected
+2024-11-03T11:19:09.676Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T11:23:31.539Z warn: Retrying Redis connection in 50ms...
+2024-11-03T11:23:31.840Z info: Redis client connected
+2024-11-03T11:28:02.038Z warn: Retrying Redis connection in 50ms...
+2024-11-03T11:28:02.387Z info: Redis client connected
+2024-11-03T11:50:24.357Z info: Redis client connected
+2024-11-03T11:50:28.236Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T11:50:33.521Z error: Redis connection error:
+2024-11-03T11:50:33.527Z warn: Retrying Redis connection in 50ms...
+2024-11-03T11:50:35.825Z info: Redis client connected
+2024-11-03T11:59:34.626Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T11:59:35.334Z info: Redis client connected
+2024-11-03T12:20:51.933Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T12:20:52.544Z info: Redis client connected
+2024-11-03T12:24:03.108Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-03T12:24:03.669Z info: Redis client connected
+2024-11-10T00:56:35.980Z info: 🚀 Server is running on http://localhost:3000/graphql
+2024-11-10T00:56:36.573Z info: Redis client connected

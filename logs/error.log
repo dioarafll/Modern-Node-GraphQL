@@ -1,0 +1,15 @@
+2024-10-22T05:08:26.327Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T05:11:41.282Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T05:13:57.650Z error: Error starting server: Query root type must be provided.
+2024-10-22T06:12:29.790Z error: Error starting server: Query root type must be provided.
+2024-10-22T06:55:14.506Z error: Error starting server: Query root type must be provided.
+2024-10-22T07:02:28.148Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T07:07:29.989Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T07:10:47.188Z error: Error starting server: "Query" defined in resolvers, but not in schema
+2024-10-22T11:20:37.474Z error: Error verifying JWT token:
+2024-10-22T11:20:37.820Z error: Error generating JWT token:
+2024-10-22T13:05:07.294Z error: Error verifying JWT token:
+2024-10-22T13:05:07.297Z error: Authentication failed:
+2024-10-22T13:53:03.820Z error: Error verifying JWT token:
+2024-10-22T13:53:03.823Z error: Authentication failed:
+2024-11-03T11:50:33.521Z error: Redis connection error:
